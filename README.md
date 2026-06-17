@@ -1,11 +1,9 @@
-# TSD-circuit
-Designed and implemented a Thermal shutdown circuit with feedback for Infineon power mosfet(BSC009NE2LS5)
 
 # Thermal Shutdown System for Power MOSFET (PMIC Project)
 
-A fully analog, on-chip **Thermal Shutdown (TSD)** circuit designed for a power MOSFET, modeled and verified in **Cadence Virtuoso (gpdk090)**. The system senses junction temperature using a thermal RC ladder derived from real Infineon datasheet data, compares it against a **Bandgap Reference (BGR)**, and uses a **hysteretic comparator** to shut the device down on overheating and safely re-enable it once it cools.
+A fully analog, on-chip **Thermal Shutdown (TSD)** circuit designed for a power MOSFET(BSC009NE2LS5), modeled and verified in **Cadence Virtuoso (gpdk090)**. The system senses junction temperature using a thermal RC ladder derived from real Infineon datasheet data, compares it against a **Bandgap Reference (BGR)**, and uses a **hysteretic comparator** to shut the device down on overheating and safely re-enable it once it cools.
 
-> Project 5: Thermal Dynamics and Protection — IIIT Bangalore
+> Project : Thermal Dynamics and Protection — IIIT Bangalore
 
 **Authors:** Rajdeep Alapati (A. Rajdeep, IMT2023592) & Kotyada Parthi / K. Parthiv (IMT2023559)
 
