@@ -58,7 +58,7 @@ The transient thermal impedance curve Z_th(t) from the datasheet was fitted to a
 | Stage | R_th | C_th |
 |---|---|---|
 | 1 (junction-near) | ≈ 0.25 Ω | 160 µF |
-| 2 | ≈ 0.56 Ω | 1.45 mF |
+| 2 (packaging)| ≈ 0.56 Ω | 1.45 mF |
 | 3 (slow/board-level) | ≈ 0.9 Ω | 11.1 mF |
 
 *(Values as extracted from the Virtuoso schematic — double-check against your final netlist before publishing.)*
