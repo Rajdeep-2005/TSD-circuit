@@ -5,7 +5,7 @@ A fully analog, on-chip **Thermal Shutdown (TSD)** circuit designed for a power 
 
 > Project : Thermal Dynamics and Protection — IIIT Bangalore
 
-**Authors:** Rajdeep Alapati (A. Rajdeep, IMT2023592) & Kotyada Parthi / K. Parthiv (IMT2023559)
+**Authors:** Rajdeep Alapati (A. Rajdeep, IMT2023592) & Kotyada Parthiv / K. Parthiv (IMT2023559)
 
 ---
 
